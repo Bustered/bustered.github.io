@@ -7,7 +7,7 @@
           "transform": "/home/ccuser/.babelscripts/react-transform-component-exports",
           "imports": ["react"],
           "locals": ["module"]
-        }
+        }3
       ]
     }]
   ]
